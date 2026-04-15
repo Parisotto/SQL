@@ -1,4 +1,4 @@
-<img src="logo-lbd.png" width="300">
+<img src="banner-lbd.png" width="100%">
 
 # 📘 Laboratório de Banco de Dados
 
@@ -29,6 +29,8 @@ Repositório com os arquivos SQL das aulas apresentados em sala.
 
 - Este material é de apoio às aulas
 - Os exemplos e explicações completas são apresentados em sala
+
+<img src="logo-lbd.png" width="25%">
 
 ---
 
