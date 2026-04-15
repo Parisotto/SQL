@@ -1,4 +1,4 @@
-<img src="lbd2.png" width="400">
+<img src="logo-lbd.png" width="300">
 
 # 📘 Laboratório de Banco de Dados
 
