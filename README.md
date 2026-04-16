@@ -13,6 +13,7 @@ Repositório com os arquivos SQL das aulas apresentados em sala.
 - [Aula 01 — Comando CREATE DATABASE](./01-criar_bd.sql)
 - [Aula 02 — Comando CREATE TABLE](./02-criar_tabela_alunos.sql)
 - [Aula 03 — Comando INSERT INTO](./03-inserir_dados.sql)
+- [Aula 03E— Exercícios](./03E-exercicio-1.sql)
 
 
 ---
