@@ -21,14 +21,6 @@ Repositório com os arquivos SQL das aulas apresentados em sala.
 
 ---
 
-## 📌 Como usar
-
-- Clique na aula desejada
-- O slide abrirá direto no navegador
-- Você também pode baixar o PDF
-
----
-
 ## ⚠️ Observações
 
 - Este material é de apoio às aulas
